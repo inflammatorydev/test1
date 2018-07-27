@@ -7,7 +7,7 @@ const Layout = ({ children, data }) => (
   <div>
   <Main2 render={(props) => <div><h1>This is my RENDER PROP</h1> {props.children}</div>}>
 
- <div>child1 - hhhhhuu</div>
+ <div>DDDDDDDaaavvviiiiddd   jjjjj zzz,.., child1 - hhhhhuu</div>
  <div>child2 - asdf</div>
  <div>child3 - erwet</div>
  <div>child4 - asdewwwww</div>
